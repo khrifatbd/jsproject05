@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Profile />
-      <Skills skillA="php" skillB="java"skillC="HTML"/>
+      <Skills skillA="php" skillB="React"skillC="HTML"/>
     </div>
   );
 }
